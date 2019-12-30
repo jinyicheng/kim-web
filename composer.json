@@ -2,6 +2,7 @@
     "name": "jinyicheng/kim-web",
     "description": "An elegant and fast php web framework",
     "type": "project",
+    "homepage": "http://kimphp.com/",
     "keywords": [
         "framework",
         "kim-framework",
